@@ -1,0 +1,31 @@
+
+
+nav{
+    width: 300px;
+    margin: 0;
+    padding: 0;
+    height: 40px;
+    
+   
+}
+
+.logo{
+    height: 50px;
+    width: 50px;
+}
+
+nav ul{
+    color: white;
+    display: grid;
+    grid-template-columns:auto auto auto auto auto;
+    list-style-type: none;
+    line-height: 40px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    font-size: 15px;
+    margin-left: 5px;
+}

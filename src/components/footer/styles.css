@@ -1,0 +1,16 @@
+footer{
+    display: flex;
+}
+
+.developed{
+    margin-left: 30px;
+    margin-top: 40px;
+}
+
+.logo_footer{
+    margin-bottom: 10 px;
+    margin-right: 50px;
+    width: 100px;
+    height: 100px;
+}
+

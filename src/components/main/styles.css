@@ -1,0 +1,290 @@
+main{
+    margin: 0;
+    padding: 0;
+}
+
+    
+.fondo{
+    text-align: end;
+    font-size: 60px;
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 20px;
+    width: 300px;
+    -webkit-text-stroke: 1px #ffed59;
+}
+
+
+main h2{
+    text-align: end;
+    font-size: 30px;
+    margin-top: 35px;
+    position: absolute;
+    margin-left:  10px;
+    color: white;
+    width: 300px;
+}
+
+div p{
+    margin-left: 5px;
+    width: 230px;
+    text-align: center;
+    color: white;
+}
+
+img{
+    margin-left: 10px;
+    width: 300px;
+    height: 325px;
+}
+
+.contenedor{
+    margin-top: 120px;
+    width: 300px;
+    position: relative;
+    display: inline-block;
+    text-align: start;
+}
+.texto-encima{
+    color: white;
+    position: absolute;
+    top: 0;
+    margin-left: 20px;
+}
+.centrado{
+    font-size: 25px;
+    color: white;
+    position: absolute;
+    top: 90px;
+    margin-left: 10px;
+    width: 250px;
+}
+
+.url{
+    color: white;
+    position: absolute;
+    top: 130px;
+    margin-left: 20px;
+    width: 200px;
+}
+
+.segundo-proyecto{
+    font-size: 25px;
+    color: white;
+    position: absolute;
+    top: 160px;
+    margin-left: 10px;
+    width: 300px;
+}
+
+.segundo{
+    color: white;
+    position: absolute;
+    top: 200px;
+    margin-left: 20px;
+    width: 200px;
+}
+
+.tercer-proyecto{
+    text-align: start;
+    font-size: 25px;
+    color: white;
+    position: absolute;
+    top: 230px;
+    margin-left: 20px;
+    width: 250px;
+}
+
+.tercero{
+    color: white;
+    position: absolute;
+    top: 270px;
+    margin-left: 20px;
+    width: 200px;
+}
+
+.fondo_dos{
+    text-align: start;
+    font-size: 60px;
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 20px;
+    width: 300px;
+    -webkit-text-stroke: 1px #ffed59;
+}
+
+.encima{
+    text-align: start;
+    font-size: 30px;
+    margin-top: 35px;
+    position: absolute;
+    margin-left:  10px;
+    color: white;
+    width: 300px;
+}
+
+.segunda_imagen{
+    margin-top: 120px;
+    width: 300px;
+    position: relative;
+    display: inline-block;
+    text-align: start;
+}
+
+.bachillerato{
+    font-size: 25px;
+    color: white;
+    position: absolute;
+    top: 50px;
+    margin-left: 10px;
+    width: 300px;
+}
+
+.cursos{
+    font-size: 25px;
+    color: white;
+    position: absolute;
+    top: 200px;
+    margin-left: 10px;
+    width: 300px;
+}
+
+.fondo_tres{
+    text-align: end;
+    font-size: 60px;
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 20px;
+    width: 300px;
+    -webkit-text-stroke: 1px #ffed59;
+}
+
+.encima_tres{
+    text-align: end;
+    font-size: 30px;
+    margin-top: 35px;
+    position: absolute;
+    margin-left:  10px;
+    color: white;
+    width: 300px;
+}
+
+.tercera_imagen{
+    margin-top: 120px;
+    width: 300px;
+    position: relative;
+    display: inline-block;
+    text-align: start;
+}
+
+.HTML{
+    font-size: 25px;
+    color: white;
+    position: absolute;
+    top: 20px;
+    margin-left: 10px;
+    width: 300px;
+}
+
+.CSS{
+    font-size: 25px;
+    color: white;
+    position: absolute;
+    top: 90px;
+    margin-left: 10px;
+    width: 300px;
+}
+
+.JAVASCRIPT{
+    font-size: 25px;
+    color: white;
+    position: absolute;
+    top: 160px;
+    margin-left: 10px;
+    width: 300px;
+}
+
+.REACT{
+    font-size: 25px;
+    color: white;
+    position: absolute;
+    top: 230px;
+    margin-left: 10px;
+    width: 300px;
+}
+
+.cuarta_imagen{
+    margin-top: 120px;
+    width: 300px;
+    position: relative;
+    display: inline-block;
+    text-align: start;
+}
+
+.email{
+    font-size: 25px;
+    color: white;
+    position: absolute;
+    top: 30px;
+    margin-left: 10px;
+    width: 300px;
+}
+
+.telefono{
+    font-size: 25px;
+    color: white;
+    position: absolute;
+    top: 120px;
+    margin-left: 10px;
+    width: 300px;
+}
+
+.localizacion{
+    font-size: 25px;
+    color: white;
+    position: absolute;
+    top: 210px;
+    margin-left: 10px;
+    width: 300px;
+}
+
+.correo{
+    font-size: 20px;
+    text-align: start;
+    color: #ffed59;
+    position: absolute;
+    top: 60px;
+    margin-left: 20px;
+    width: 300px;
+}
+
+.numero{
+    font-size: 20px;
+    text-align: start;
+    color: #ffed59;
+    position: absolute;
+    top: 150px;
+    margin-left: 20px;
+    width: 300px;
+}
+
+.bogota{
+    font-size: 20px;
+    text-align: start;
+    color: #ffed59;
+    position: absolute;
+    top: 240px;
+    margin-left: 20px;
+    width: 300px;
+}
+
+
+.separador_dos{
+    margin-left: 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    height: 5px;
+    width: 300px;
+    background: #ffed59;
+    
+}
